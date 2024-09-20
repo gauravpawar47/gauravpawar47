@@ -31,22 +31,19 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravpawar47&theme=dark&stroke=00ffff&ring=00ffff&fire=00ffff&currStreakLabel=00ffff" alt="gauravpawar47" /></p> <br>
 
-<h2> 📊 🌟 GitHub Stats : </h2> <br>
+<h2> 📊 🌟 GitHub Stats</h2> <br>
 
 <!-- GitHub Stats -->
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=gauravpawar47&show_icons=true&locale=en&theme=dark&text_color=00ffff&bg_color=00000000" alt="gauravpawar47" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=gauravpawar47&show_icons=true&locale=en&theme=dark&text_color=00ffff&bg_color=00000000" alt="gauravpawar47" /></p>
 
 <!-- Most Used Languages -->
-
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravpawar47&show_icons=true&locale=en&layout=compact&theme=dark&text_color=00ffff&bg_color=00000000" alt="gauravpawar47" /></p>
 
-<!-- Clear floated elements -->
-<div style="clear: both;"></div> <br>
+<!-- Clear both -->
+<div style="clear: both;"></div>
 
 <!-- Connect With Me -->
-
-<h2 align="left"> ✉️ Connect with me : </h2> <br>
+<h2 align="left"> ✉️ Connect with me:</h2>
 <p align="left">
   <a href="https://linkedin.com/in/gaurav-pawar-519b5b245" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurav-pawar-519b5b245" height="30" width="40" />
@@ -59,4 +56,3 @@
   </a>
 </p>
 
-<br>
