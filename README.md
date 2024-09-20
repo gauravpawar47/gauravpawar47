@@ -62,3 +62,20 @@
   </a>
 </p>
 
+<script>
+  const prefersDarkScheme = window.matchMedia("(prefers-color-scheme: dark)").matches;
+
+  const githubStats = document.getElementById("github-stats");
+  const githubLangs = document.getElementById("github-langs");
+
+  if (prefersDarkScheme) {
+    githubStats.src = "https://github-readme-stats.vercel.app/api?username=gauravpawar47&show_icons=true&locale=en&theme=dark&text_color=00ffff&bg_color=00000000&hide_border=true";
+    githubLangs.src = "https://github-readme-stats.vercel.app/api/top-langs?username=gauravpawar47&show_icons=true&locale=en&layout=compact&theme=dark&text_color=00ffff&bg_color=00000000&hide_border=true";
+  } else {
+    githubStats.src = "https://github-readme-stats.vercel.app/api?username=gauravpawar47&show_icons=true&locale=en&theme=light&text_color=000000&bg_color=00000000&hide_border=true";
+    githubLangs.src = "https://github-readme-stats.vercel.app/api/top-langs?username=gauravpawar47&show_icons=true&locale=en&layout=compact&theme=light&text_color=000000&bg_color=00000000&hide_border=true";
+  }
+</script>
+
+<img id="github-stats" style="max-width: 100%;" />
+<img id="github-langs" style="max-width: 60%;" />
