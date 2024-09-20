@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" src="https://drive.google.com/file/d/1XmD0CceiTk3Rl2KiJTef2c2QQk-6URV7/view?usp=sharing">
+<img align="center" alt="Coding" src="gauravpawar.png">
 <h1 align="center">Hi 👋, I'm Gaurav Pawar</h1>
 <h3 align="center">A Passionate Java Developer and Meta Learning Enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
