@@ -37,11 +37,12 @@
 <h2> 📊 🌟 GitHub Stats</h2> 
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=gauravpawar47&show_icons=true&locale=en&theme=dark&text_color=00cccc&bg_color=00000000&hide_border=true" alt="gauravpawar47" style="max-width: 100%;" />
+<!-- GitHub Stats (Light Mode Version) -->
+<img src="https://github-readme-stats.vercel.app/api?username=gauravpawar47&show_icons=true&locale=en&theme=light&text_color=000000&bg_color=00000000&hide_border=true" alt="gauravpawar47" style="max-width: 100%;" />
 
-<!-- Most Used Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravpawar47&show_icons=true&locale=en&layout=compact&theme=dark&text_color=00cccc&bg_color=00000000&hide_border=true" alt="gauravpawar47" style="max-width: 60%;" />
+<!-- Most Used Languages (Light Mode Version) -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravpawar47&show_icons=true&locale=en&layout=compact&theme=light&text_color=000000&bg_color=00000000&hide_border=true" alt="gauravpawar47" style="max-width: 60%;" />
+
 </div>
 
 <!-- Clear float -->
