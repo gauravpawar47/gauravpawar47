@@ -31,15 +31,16 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravpawar47&theme=dark&stroke=00ffff&ring=00ffff&fire=00ffff&currStreakLabel=00ffff" alt="gauravpawar47" /></p> <br>
 
-<h2> 📊 🌟 GitHub Stats</h2> <br>
+<h2> 📊 🌟 GitHub Stats</h2> 
 
-<!-- GitHub Stats -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=gauravpawar47&show_icons=true&locale=en&theme=dark&text_color=00ffff&bg_color=00000000" alt="gauravpawar47" /></p>
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+    <!-- GitHub Stats -->
+    <img src="https://github-readme-stats.vercel.app/api?username=gauravpawar47&show_icons=true&locale=en&theme=dark&text_color=00ffff&bg_color=00000000" alt="gauravpawar47" style="max-width: 48%;" align="left"/>
+    <!-- Most Used Languages -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravpawar47&show_icons=true&locale=en&layout=compact&theme=dark&text_color=00ffff&bg_color=00000000" alt="gauravpawar47" style="max-width: 48%;" align="left"/>
+</div>
 
-<!-- Most Used Languages -->
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravpawar47&show_icons=true&locale=en&layout=compact&theme=dark&text_color=00ffff&bg_color=00000000" alt="gauravpawar47" /></p>
-
-<!-- Clear both -->
+<!-- Clear float -->
 <div style="clear: both;"></div>
 
 <!-- Connect With Me -->
