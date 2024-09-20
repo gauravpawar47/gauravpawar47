@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<h3>🙋‍♂️ About Me</h3> <hr> <br>
+<h3>🙋‍♂️ About Me</h3> <br>
 
 - 🔭 I’m currently Working on **Full Stack Development**
 
