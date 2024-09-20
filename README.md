@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" src="gauravpawar.png">
+![Header](./header.png)
 <h1 align="center">Hi 👋, I'm Gaurav Pawar</h1>
 <h3 align="center">A Passionate Java Developer and Meta Learning Enthusiast from India</h3>
 
