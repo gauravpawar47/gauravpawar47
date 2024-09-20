@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gaurav Pawar</h1>
+<h1 align="center">Hi <span class="wave">👋</span>, I'm Gaurav Pawar</h1>
 <h3 align="center">A Passionate Java Developer and Meta Learning Enthusiast from India</h3> <br>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -32,3 +32,22 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gauravpawar47&show_icons=true&locale=en&theme=dark&text_color=00ffff" alt="gauravpawar47" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravpawar47&theme=dark&stroke=00ffff&ring=00ffff&fire=00ffff&currStreakLabel=00ffff" alt="gauravpawar47" /></p>
+
+<style>
+  .wave {
+    display: inline-block;
+    animation: wave-animation 2s infinite;
+    transform-origin: 70% 70%;
+  }
+
+  @keyframes wave-animation {
+    0% { transform: rotate(0deg); }
+    10% { transform: rotate(14deg); }
+    20% { transform: rotate(-8deg); }
+    30% { transform: rotate(14deg); }
+    40% { transform: rotate(-4deg); }
+    50% { transform: rotate(10deg); }
+    60% { transform: rotate(0deg); }
+    100% { transform: rotate(0deg); }
+  }
+</style>
