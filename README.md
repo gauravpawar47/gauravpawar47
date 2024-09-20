@@ -1,25 +1,28 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Gaurav Pawar</h1>
 <h3 align="center">A Passionate Java Developer and Meta Learning Enthusiast from India</h3> <br>
 
-<img align="right" alt="Coding" width="450" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <!-- About Me -->
 
 <h3>🙋‍♂️ About Me</h3>  <br>
+<div>
+    <img align="right" alt="Coding" width="450" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+    <span align="left">
+    - 🔭 I’m currently Working on **Full Stack Development**
 
-- 🔭 I’m currently Working on **Full Stack Development**
+    - 🌱 I’m currently learning **Full Stack Java Development**
 
-- 🌱 I’m currently learning **Full Stack Java Development**
+    - 🌱 I’m currently learning **Data Structures And Algorithms**
 
-- 🌱 I’m currently learning **Data Structures And Algorithms**
+    - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+    - 💬 Ask me about **Java**
 
-- 💬 Ask me about **Java**
+    - 📫 How to reach me **gauravpawaroff@gmail.com**
 
-- 📫 How to reach me **gauravpawaroff@gmail.com**
-
-- ⚡ Fun fact **👨‍💻 Coding by day, 🎤 singing by night. Balancing tech and tunes, one line of code at a time!"**
+    - ⚡ Fun fact **👨‍💻 Coding by day, 🎤 singing by night. Balancing tech and tunes, one line of code at a time!"**
+    </span>
+</div>
 <hr>
 
 <!-- Connect With Me -->
