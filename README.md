@@ -3,6 +3,8 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
+<h3>🙋‍♂️ About Me<h3> <hr> <br>
+
 - 🔭 I’m currently Working on **Full Stack Development**
 
 - 🌱 I’m currently learning **Full Stack Java Development**
@@ -15,7 +17,7 @@
 
 - 📫 How to reach me **gauravpawaroff@gmail.com**
 
-- ⚡ Fun fact **👨‍💻 Coding by day, 🎤 Singing by night! When I'm not debugging code, you’ll find me composing tunes. Balancing tech and tunes, one note and one line of code at a time!"**
+- ⚡ Fun fact **👨‍💻 Coding by day, 🎤 singing by night. Balancing tech and tunes, one line of code at a time!"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
