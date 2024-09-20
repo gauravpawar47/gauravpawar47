@@ -38,10 +38,10 @@
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
 <!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=gauravpawar47&show_icons=true&locale=en&theme=dark&text_color=00ffff&bg_color=00000000&hide_border=true" alt="gauravpawar47" style="max-width: 100%;"/>
+<img src="https://github-readme-stats.vercel.app/api?username=gauravpawar47&show_icons=true&locale=en&theme=dark&text_color=00ffff&bg_color=0d1117&hide_border=true" alt="gauravpawar47" style="max-width: 100%;"/>
 
 <!-- Most Used Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravpawar47&show_icons=true&locale=en&layout=compact&theme=dark&text_color=00ffff&bg_color=00000000&hide_border=true" alt="gauravpawar47" style="max-width: 60%;" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravpawar47&show_icons=true&locale=en&layout=compact&theme=dark&text_color=00ffff&bg_color=0d1117&hide_border=true" alt="gauravpawar47" style="max-width: 60%;" />
 </div>
 
 <!-- Clear float -->
