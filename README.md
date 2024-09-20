@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Gaurav Pawar</h1>
 <h3 align="center">A Passionate Java Developer and Meta Learning Enthusiast from India</h3> <br>
 
-<img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="450" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <h3>🙋‍♂️ About Me</h3>  <br>
 
@@ -19,6 +19,7 @@
 
 - ⚡ Fun fact **👨‍💻 Coding by day, 🎤 singing by night. Balancing tech and tunes, one line of code at a time!"**
 
+<hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gaurav-pawar-519b5b245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurav-pawar-519b5b245" height="30" width="40" /></a>
