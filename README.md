@@ -8,19 +8,15 @@
 <div>
     <img align="right" alt="Coding" width="450" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
     <span align="left">
-    - 🔭 I’m currently Working on **Full Stack Development**
 
-    - 🌱 I’m currently learning **Full Stack Java Development**
+- 🔭 I’m currently Working on **Full Stack Development**
+- 🌱 I’m currently learning **Full Stack Java Development**
+- 🌱 I’m currently learning **Data Structures And Algorithms**
+- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 💬 Ask me about **Java**
+- 📫 How to reach me **gauravpawaroff@gmail.com**
+- ⚡ Fun fact **👨‍💻 Coding by day, 🎤 singing by night. Balancing tech and tunes, one line of code at a time!"**
 
-    - 🌱 I’m currently learning **Data Structures And Algorithms**
-
-    - 👯 I’m looking to collaborate on **OpenSource Projects**
-
-    - 💬 Ask me about **Java**
-
-    - 📫 How to reach me **gauravpawaroff@gmail.com**
-
-    - ⚡ Fun fact **👨‍💻 Coding by day, 🎤 singing by night. Balancing tech and tunes, one line of code at a time!"**
     </span>
 </div>
 <hr>
