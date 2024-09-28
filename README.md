@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning **Full Stack Java Development**
 - 🌱 I’m currently learning **Data Structures And Algorithms**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Java & Metal Learning**
 - 📫 How to reach me **gauravpawaroff@gmail.com**
 - ⚡ Fun fact **👨‍💻 Coding by day, 🎤 singing by night. Balancing tech and tunes, one line of code at a time!"**
 
