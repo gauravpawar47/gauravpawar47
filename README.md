@@ -10,7 +10,7 @@
     <span align="left">
 
 - 🔭 I’m currently Working on **Full Stack Development**
-- 🌱 I’m currently learning **Full Stack Java Development**
+- 🌱 I’m currently learning **Java Full Stack Development**
 - 🌱 I’m currently learning **Data Structures And Algorithms**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - 💬 Ask me about **Java & Metal Learning**
