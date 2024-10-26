@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning **Java Full Stack Development**
 - 🌱 I’m currently learning **Data Structures And Algorithms**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
-- 💬 Ask me about **Java & Metal Learning**
+- 💬 Ask me about **Java & Meta Learning**
 - 📫 How to reach me **<a href='https://gauravpawar.netlify.app' target='_blank'> Portfolio 📍 </a>**
 - ⚡ Fun fact **👨‍💻 Coding by day, 🎤 singing by night. Balancing tech and tunes, one line of code at a time!"**
 
