@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Gaurav Pawar</h1>
-<h3 align="center">A Passionate Java Developer and Meta Learning Enthusiast from India</h3> <br>
+<h3 align="center">Java Developer | Meta Learning Enthusiast | Full-Stack Explorer from 🇮🇳</h3> <br>
 
 
 <!-- About Me -->
@@ -10,10 +10,10 @@
     <span align="left">
 
 - 🔭 I’m currently Working on **Full Stack Development**
-- 🌱 I’m currently learning **Java Full Stack Development**
-- 🌱 I’m currently learning **Data Structures And Algorithms**
+- 🌱 I’m currently Leveling **Java Full Stack Development**
+- 🌱 I’m currently Mastering **Data Structures And Algorithms**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
-- 💬 Ask me about **Java & Meta Learning**
+- 💬 Ask me about **Java | Meta Learning | DSA**
 - 📫 How to reach me **<a href='https://gauravpawar.netlify.app' target='_blank'> Portfolio 📍 </a>**
 - ⚡ Fun fact **👨‍💻 Coding by day, 🎤 singing by night. Balancing tech and tunes, one line of code at a time!"**
 
@@ -61,6 +61,7 @@
   </a>
 </p>
 
+---
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
