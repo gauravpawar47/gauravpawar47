@@ -111,7 +111,7 @@
   <a href="https://instagram.com/_.student._47" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.student._47" height="30" width="40" />
   </a>
-  <a href="https://www.leetcode.com/student47" target="blank">
+  <a href="https://www.leetcode.com/gauravpawar7" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="student47" height="30" width="40" />
   </a>
 </p>
